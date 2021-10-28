@@ -1,4 +1,4 @@
-package Cloths;
+package Services.Cloths;
 
 import org.junit.jupiter.api.Test;
 

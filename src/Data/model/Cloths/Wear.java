@@ -1,4 +1,4 @@
-package Cloths;
+package Data.model.Cloths;
 
 public class Wears {
     private Category category;

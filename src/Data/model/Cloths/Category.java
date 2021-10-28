@@ -1,4 +1,4 @@
-package Cloths;
+package Services.Cloths;
 
 public enum Category {
     WorkWear,
